@@ -1,0 +1,25 @@
+{
+  "name": "log4v",
+  "version": "1.0.0-alpha.1",
+  "description": "Simple logging utility for Vue projects",
+  "keywords": [
+    "vue",
+    "logging",
+    "typescript"
+  ],
+  "homepage": "https://github.com/ekorad/log4v#readme",
+  "bugs": {
+    "url": "https://github.com/ekorad/log4v/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekorad/log4v.git"
+  },
+  "license": "ISC",
+  "author": "Vlad-Gabriel Zahiu",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
